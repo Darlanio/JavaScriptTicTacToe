@@ -6,10 +6,10 @@
         id        = "com.phonegap.memory"
         version   = "1.0.0">
 
-    <name>Memory Trainer</name>
+    <name>Tic Tac Toe</name>
 
     <description>
-        Want to train your memory in a colorful way? This is the solution!
+        This is a classic game! Only Player vs Player available for now...
     </description>
 
     <author href="http://www.google.com/" email="darlanio@gmail.com">
